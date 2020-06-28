@@ -1,2 +1,1 @@
-Hi prani and chinni
-print("Hi everyone")
+No one scratch me
